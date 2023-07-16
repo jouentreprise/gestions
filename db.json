@@ -1,0 +1,46 @@
+{
+  "produits": [
+    {
+      "id": 1,
+      "name": "produit1",
+      "price": 45,
+      "checked": false
+    },
+    {
+      "id": 2,
+      "name": "baba",
+      "price": 455,
+      "checked": true
+    },
+    {
+      "id": 3,
+      "name": "montassir",
+      "price": 23,
+      "checked": false
+    },
+    {
+      "id": 4,
+      "name": "tikki",
+      "price": 18,
+      "checked": true
+    },
+    {
+      "name": "testt",
+      "price": "878",
+      "checked": "on",
+      "id": 5
+    },
+    {
+      "name": "test2",
+      "price": "887",
+      "checked": false,
+      "id": 6
+    },
+    {
+      "name": "test3",
+      "price": "456",
+      "checked": true,
+      "id": 7
+    }
+  ]
+}
